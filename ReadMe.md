@@ -2,7 +2,8 @@
 
 This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. It covers each stage from data ingestion to processing and finally to storage, utilizing a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. Everything is containerized using Docker for ease of deployment and scalability.
 
-![Data engineering architecture.png](..%2F..%2FOneDrive%2FDesktop%2FDecember%20Plan%28Data%20Engineering%29%2FRealtime%20Data%20Streaming%20%20End%20To%20End%20Data%20Engineering%20Project-API-cassandra%2FData%20engineering%20architecture.png)
+![Data engineering architecture](https://github.com/Emad-koda/Realtime-Data-Streaming-API/assets/157194922/4a2468b3-4ecd-43e4-b6ec-f280eaf79fb0)
+
 
 The project is designed with the following components:
 
